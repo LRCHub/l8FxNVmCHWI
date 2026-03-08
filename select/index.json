@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あなたに恋をしてみました",
+  "base_artist": "chay",
+  "createdAt": "2026-03-08T12:55:00.856244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたに恋をしてみました",
+      "artist": "chay",
+      "has_synced": true,
+      "path": "select/01_あなたに恋をしてみました_chay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたに恋をしてみました - anatani koiwo shitemimashita",
+      "artist": "chay",
+      "has_synced": true,
+      "path": "select/02_あなたに恋をしてみました_-_anatani_koiwo_shitemimashita_chay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたに恋をしてみました",
+      "artist": "Chay",
+      "has_synced": true,
+      "path": "select/03_あなたに恋をしてみました_Chay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたに恋をしてみました",
+      "artist": "CHAY",
+      "has_synced": false,
+      "path": "select/pl_01_あなたに恋をしてみました_CHAY.txt"
+    }
+  ]
+}
